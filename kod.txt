@@ -1,0 +1,3 @@
+A quick check on your files
+I noticed your README.md contains the instructions we were just discussing about restoring files! Since your git status previously said the working tree was clean but test2.md was missing, a successful git pull might actually bring that file back if it exists on the remote origin/main branch.
+sustainable
